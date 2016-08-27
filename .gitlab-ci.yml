@@ -9,6 +9,10 @@ build:
   stage: build
   script:
     - gitbook build
+  artifacts:
+    paths:
+    - _book
+    expire_in: 20 minutes
 
 deploy:
   stage: deploy

@@ -1,5 +1,4 @@
 before_script:
-  - openssl aes-256-cbc -d -K $enc_key -iv $enc_iv -in .ci/key.enc -out .ci/key
   - npm install
 
 stages:
@@ -18,6 +17,7 @@ build:
 deploy:
   stage: deploy
   script:
+    - openssl aes-256-cbc -d -K $enc_key -iv $enc_iv -in .ci/key.enc -out .ci/key
     - sh .ci/deploy.sh
   only:
     - master@BJMUN/kb

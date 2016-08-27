@@ -1,0 +1,16 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  script:
+    - gitbook build
+
+deploy:
+  stage: deploy
+  script:
+    - sh .ci/deploy.sh
+  only:
+    - master@BJMUN/kb
+  when: on_success

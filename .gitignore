@@ -2,3 +2,4 @@
 /_book
 
 .*.sw[a-p]
+.ci/key

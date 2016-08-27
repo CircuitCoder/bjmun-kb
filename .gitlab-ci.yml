@@ -1,3 +1,6 @@
+before_script:
+  - npm install
+
 stages:
   - build
   - deploy

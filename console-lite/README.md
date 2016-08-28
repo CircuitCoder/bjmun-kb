@@ -4,15 +4,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background: white;
+  border-radius: 4px;
 }
 
 .down-btn {
   padding: 20px;
   font-size: 16px;
-  background: rgba(0,0,0,.06);
+  background: #EEE;
 
   transition: opacity .2s ease;
-  opacity: .8;
+  opacity: .8FAFAFAFA;
 
   border-radius: 2px;
 
@@ -50,24 +52,24 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
 
 安装 Console Lite 十分简单，下载后开包即用。
 
-当前发布的版本为 v1.0.0
+当前发布的版本为 v1.0.1
 
 <div class="down-sec">
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.0-win32-x64.7z">
-    <button class="down-btn primary">Windows 64位 (108MB)</button>
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-win32-x64.7z">
+    <button class="down-btn primary">Windows 64位 (84.75MB)</button>
   </a>
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.0-darwin.zip">
-    <button class="down-btn primary">Mac OS X 64位 (140MB)</button>
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-darwin.zip">
+    <button class="down-btn primary">Mac OS X 64位 (140.35MB)</button>
   </a>
 </div>
 
 如果你的下载带宽不够，可以下载不带字体的版本，可能会导致体验弱化。
 
 <div class="down-sec">
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.0-win32-x64-nofont.7z">
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-win32-x64-nofont.7z">
     <button class="down-btn">Windows 64位 (46.4MB)</button>
   </a>
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.0-darwin-nofont.zip">
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-darwin-nofont.zip">
     <button class="down-btn">Mac OS X 64位 (84.8MB)</button>
   </a>
 </div>

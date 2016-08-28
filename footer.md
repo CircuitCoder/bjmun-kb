@@ -1,17 +1,18 @@
 <style>
 .footer {
   margin-top: 50px;
-  color: rgba(0,0,0,.3);
 
   font-size: .8em;
 }
 
 .footer-src {
   display: inline-block;
+  opacity: .3;
 }
 
 .footer-mtime {
   float: right;
+  opacity: .3;
 }
 
 .footer-badages {

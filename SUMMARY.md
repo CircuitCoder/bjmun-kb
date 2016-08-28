@@ -2,6 +2,7 @@
 
 * [关于](README.md)
 * [Meta](meta/README.md)
+  * [阅读](meta/reading.md)
   * [贡献](meta/contribute.md)
 * [Console Lite](console-lite/README.md)
   * [起飞](console-lite/takeoff.md)

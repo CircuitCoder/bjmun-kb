@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gitbook-plugin-collapsible-menu": "^1.0.2",
     "gitbook-plugin-todo": "^0.1.2"
   }
 }

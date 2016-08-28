@@ -78,3 +78,5 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
 ## 开放源代码
 
 Console Lite 的全部源代码在 MIT 协议下开放，源码在 [Github](https://github.com/CircuitCoder/Console-Lite) 上。
+
+{% include '../footer.md' %}

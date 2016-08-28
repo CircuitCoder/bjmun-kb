@@ -7,3 +7,5 @@
 对于此知识库以任何形式的贡献都是被欢迎的。关于细节请阅读[贡献](meta/contribute.md)。
 
 你说的没错我就是在模仿 Github 的风格。
+
+{% include 'footer.md' %}

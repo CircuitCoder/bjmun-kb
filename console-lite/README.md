@@ -52,13 +52,13 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
 
 安装 Console Lite 十分简单，下载后开包即用。
 
-当前发布的版本为 v1.0.1
+当前发布的版本为 v1.0.2。Windows 版本未上传，现在提供 v1.0.1 版本的下载。
 
 <div class="down-sec">
   <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-win32-x64.7z">
     <button class="down-btn primary">Windows 64位 (84.79MB)</button>
   </a>
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-darwin.zip">
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-darwin.zip">
     <button class="down-btn primary">Mac OS X 64位 (140.35MB)</button>
   </a>
 </div>
@@ -69,7 +69,7 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
   <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-win32-x64-nofont.7z">
     <button class="down-btn">Windows 64位 (46.4MB)</button>
   </a>
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-darwin-nofont.zip">
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-darwin-nofont.zip">
     <button class="down-btn">Mac OS X 64位 (84.8MB)</button>
   </a>
 </div>

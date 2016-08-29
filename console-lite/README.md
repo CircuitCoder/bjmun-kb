@@ -52,7 +52,7 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
 
 安装 Console Lite 十分简单，下载后开包即用。
 
-当前发布的版本为 v1.0.2。Windows 版本未上传，现在提供 v1.0.1 版本的下载。
+当前发布的版本为 v1.0.2。
 
 <div class="down-sec">
   <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-win32-x64.7z">

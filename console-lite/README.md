@@ -55,7 +55,7 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
 当前发布的版本为 v1.0.2。Windows 版本未上传，现在提供 v1.0.1 版本的下载。
 
 <div class="down-sec">
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-win32-x64.7z">
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-win32-x64.7z">
     <button class="down-btn primary">Windows 64位 (107.83MB)</button>
   </a>
   <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-darwin.zip">
@@ -66,7 +66,7 @@ Console Lite 拥有一下<small>十分厉害的</small>的功能：
 如果你的下载带宽不够，可以下载不带字体的版本，可能会导致体验弱化。
 
 <div class="down-sec">
-  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.1-win32-x64-nofont.7z">
+  <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-win32-x64-nofont.7z">
     <button class="down-btn">Windows 64位 (46.44MB)</button>
   </a>
   <a href="http://bjmun.org/console-lite/Console-Lite-v1.0.2-darwin-nofont.zip">

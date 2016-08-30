@@ -41,7 +41,7 @@
 
 Console Lite，/kˈɑnsoʊl/ /lˈaɪt/，翻译成中文是`控制台缩水版` (并不)，是一个模拟联合国会议软件。
 
-Console Lite 拥有一下<small>十分厉害的</small>的功能：
+Console Lite 拥有以下<small>十分厉害的</small>的功能：
 
 - 支持多人协作，可以自动发现局域网内其他的实例并且连接
 - 跨平台，支持 Mac OS X、Windows 以及大多数 Linux 发行版

@@ -34,3 +34,5 @@ node server/main.js
 ```
 npm run server
 ```
+
+{% include '../footer.md' %}

@@ -92,3 +92,5 @@ B 接收到了自己请求的 pingback
 ```bash
 export ELECTRON_MIRROR https://npm.taobao.org/mirrors/electron/
 ```
+
+{% include '../footer.md' %}

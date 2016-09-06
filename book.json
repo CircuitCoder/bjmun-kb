@@ -1,8 +1,11 @@
 {
-  "plugins": ["todo", "collapsible-menu", "ga"],
+  "plugins": ["todo", "collapsible-menu", "ga", "sitemap"],
   "pluginsConfig": {
     "ga": {
       "token": "UA-83738559-1"
+    },
+    "sitemap": {
+      "hostname": "https://kb.bjmun.org"
     }
   }
 }

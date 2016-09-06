@@ -1,3 +1,8 @@
 {
-  "plugins": ["todo", "collapsible-menu"]
+  "plugins": ["todo", "collapsible-menu", "ga"],
+  "pluginsConfig": {
+    "ga": {
+      "token": "UA-83738559-1"
+    }
+  }
 }

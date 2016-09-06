@@ -1,4 +1,5 @@
 {
+  "title": "BJMUN Knowledgebase",
   "plugins": ["todo", "collapsible-menu", "ga", "sitemap"],
   "pluginsConfig": {
     "ga": {
@@ -6,6 +7,11 @@
     },
     "sitemap": {
       "hostname": "https://kb.bjmun.org"
+    }
+  },
+  "links": {
+    "sidebar": {
+      "BJMUN 首页": "https://bjmun.org"
     }
   }
 }

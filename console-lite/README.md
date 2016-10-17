@@ -164,6 +164,9 @@ Console Lite 拥有以下<small>十分厉害的</small>的功能：
 
 启动 Console Lite 后，请继续阅读[起飞](takeoff.md)
 
+### 对于 macOS Serria 用户的提示
+
+如果你正在使用 macOS Serria，Console Lite 可能不能在任意路径下执行，在启动本地会话时会提示错误。此时你需要将 Console Lite 的应用文件移动到 Finder 窗口左侧的`应用程序`，或 `/Application` 中。此后，从 Launchpad 启动 Console Lite，即可正常使用。
 
 ## 开放源代码
 

@@ -7,7 +7,7 @@
 |快捷键|作用|
 |--|--|
 |Ctrl (Cmd) + \ |前置或打开 Console Lite 控制窗口|
-|Ctrl (Cmd) + Shift + \||前置或打开 Console Lite 投影窗口|
+|Ctrl (Cmd) + Shift + &#124; |前置或打开 Console Lite 投影窗口|
 
 ## 全局可用
 
